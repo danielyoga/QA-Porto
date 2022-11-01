@@ -2,7 +2,7 @@
   <!-- <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/55596578/199184903-e73f791f-1613-4839-b3c2-de2c47df2099.png" alt="my banner"></a> -->
 <!-- </p> -->
 
-<img src="https://user-images.githubusercontent.com/55596578/199184903-e73f791f-1613-4839-b3c2-de2c47df2099.png" alt="my banner">
+<img src="https://user-images.githubusercontent.com/55596578/199185549-2a22cac6-5a0b-4d55-929b-420230751d73.png" alt="my banner">
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
