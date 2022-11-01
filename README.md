@@ -4,7 +4,7 @@
 I'm a Quality Assurance Engineer 💻
 </h2> 
 
-I love to find bugs, evaluate software/apps performances.
+I love to find bugs, evaluate software/apps performances, take attention to elements detail.
 
 ### 🤝 Connect with me:
 
@@ -25,6 +25,8 @@ I love to find bugs, evaluate software/apps performances.
 - 🌏 Geospatial Analytics
 
 ## 💼 Technical Skills
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -51,7 +53,7 @@ I love to find bugs, evaluate software/apps performances.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
+## 📝 Projects Experience
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
 - [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
