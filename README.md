@@ -1,15 +1,7 @@
-<!-- <p align="center">
-  <!-- <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/55596578/199184903-e73f791f-1613-4839-b3c2-de2c47df2099.png" alt="my banner"></a> -->
-<!-- </p> -->
-
-<img src="https://user-images.githubusercontent.com/55596578/199185549-2a22cac6-5a0b-4d55-929b-420230751d73.png" alt="my banner">
-
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
-</h3>
+<img align="center" src="https://user-images.githubusercontent.com/55596578/199185549-2a22cac6-5a0b-4d55-929b-420230751d73.png" alt="my banner">
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Quality Assurance Engineer 💻
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
