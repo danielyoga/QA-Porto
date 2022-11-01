@@ -38,7 +38,7 @@ I love to find bugs, evaluate software/apps performances, take attention to elem
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📝 Projects Experience
+## 📝🔖📑 Projects Experience
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
 
