@@ -15,11 +15,8 @@ I love to find bugs, evaluate software/apps performances.
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- 🌴 Analyzing Palm Oil Plantation
+- 🎰 Machine Learning (Regression, Classification and Clustering)
 
 ## 🌱 I'm currently learning
 
