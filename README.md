@@ -36,11 +36,13 @@ I love to find bugs, evaluate software/apps performances, take attention to elem
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<!-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) -->
 
 ## 📑 Projects Experience
 <!-- 📝🔖 -->
 - [Alterra QA Course Mini Project](https://candy-hope-54d.notion.site/Alterra-QA-Course-Mini-Project-Testing-e3ec0163399c442592d1fcd035fd98e2)
+
+- [Alterra QA Course Final Capstone Project](https://candy-hope-54d.notion.site/Alterra-QA-Course-Final-Capstone-Project-Testing-e8c7dca660b84c9191f4ae5619316e36)
 
 ## 📈 GitHub Stats 
 
