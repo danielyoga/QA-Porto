@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/55596578/199185549-2a22cac6-5a0b-4d55-929b-420230751d73.png" alt="my banner">
+<img align="center" src="https://user-images.githubusercontent.com/55596578/199391198-6a1b2c37-d3cf-4cea-afbb-b0fc75695fbf.png" alt="my banner">
 
 <h2 align="center">
 I'm a Quality Assurance Engineer 💻
