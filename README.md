@@ -40,7 +40,7 @@ I love to find bugs, evaluate software/apps performances, take attention to elem
 
 ## 📑 Projects Experience
 <!-- 📝🔖 -->
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
+- [Alterra QA Course Mini Project](https://candy-hope-54d.notion.site/Alterra-QA-Course-Mini-Project-Testing-e3ec0163399c442592d1fcd035fd98e2)
 
 ## 📈 GitHub Stats 
 
